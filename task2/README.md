@@ -28,4 +28,3 @@ Analyze unemployment rate data, clean and explore it with Python, investigate th
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-- 
