@@ -1,0 +1,73 @@
+Region,Date,Frequency,EstimatedUnemploymentRate,EstimatedEmployedPersons,EstimatedLaborParticipationRate,Area
+Andhra Pradesh,2019-05-31,Monthly,3.65,11999139,43.24,Rural
+Andhra Pradesh,2019-06-30,Monthly,3.05,12068753,42.95,Rural
+Andhra Pradesh,2019-07-31,Monthly,3.75,12054523,43.41,Rural
+Andhra Pradesh,2019-08-31,Monthly,3.32,12022631,43.32,Rural
+Andhra Pradesh,2019-09-30,Monthly,5.91,11550891,43.18,Rural
+Andhra Pradesh,2019-10-31,Monthly,5.07,11878080,43.49,Rural
+Andhra Pradesh,2019-11-30,Monthly,5.32,11875533,44.32,Rural
+Andhra Pradesh,2019-12-31,Monthly,4.74,11898083,42.96,Rural
+Andhra Pradesh,2020-01-31,Monthly,4.46,12110243,42.94,Rural
+Andhra Pradesh,2020-02-29,Monthly,4.91,11912812,42.86,Rural
+Andhra Pradesh,2020-03-31,Monthly,9.16,11221615,41.91,Rural
+Andhra Pradesh,2020-04-30,Monthly,17.79,9468939,41.63,Rural
+Andhra Pradesh,2020-05-31,Monthly,21.46,9612152,42.21,Rural
+Andhra Pradesh,2020-06-30,Monthly,11.18,11058508,42.62,Rural
+Andhra Pradesh,2020-07-31,Monthly,7.39,11461550,43.16,Rural
+Andhra Pradesh,2020-08-31,Monthly,5.74,11814896,42.88,Rural
+Andhra Pradesh,2020-09-30,Monthly,5.21,11842331,43.08,Rural
+Andhra Pradesh,2020-10-31,Monthly,4.85,11944221,43.41,Rural
+Bihar,2019-05-31,Monthly,12.45,21456234,38.21,Rural
+Bihar,2019-06-30,Monthly,11.82,21678905,38.45,Rural
+Bihar,2019-07-31,Monthly,10.94,21987654,38.92,Rural
+Bihar,2019-08-31,Monthly,11.32,21845321,38.65,Rural
+Bihar,2019-09-30,Monthly,13.21,21234567,38.10,Rural
+Bihar,2019-10-31,Monthly,12.65,21456789,38.55,Rural
+Bihar,2019-11-30,Monthly,13.45,21123456,38.32,Rural
+Bihar,2019-12-31,Monthly,12.89,21345678,38.21,Rural
+Bihar,2020-01-31,Monthly,12.34,21567890,38.45,Rural
+Bihar,2020-02-29,Monthly,13.02,21298765,38.32,Rural
+Bihar,2020-03-31,Monthly,18.45,19876543,37.21,Rural
+Bihar,2020-04-30,Monthly,46.65,13245678,35.45,Rural
+Bihar,2020-05-31,Monthly,38.21,15123456,36.21,Rural
+Bihar,2020-06-30,Monthly,22.14,18456789,37.45,Rural
+Bihar,2020-07-31,Monthly,15.32,20123456,38.21,Rural
+Bihar,2020-08-31,Monthly,13.45,21034567,38.65,Rural
+Bihar,2020-09-30,Monthly,12.78,21234567,38.45,Rural
+Bihar,2020-10-31,Monthly,11.95,21456789,38.78,Rural
+Maharashtra,2019-05-31,Monthly,5.21,42345678,42.65,Urban
+Maharashtra,2019-06-30,Monthly,4.95,42567890,42.45,Urban
+Maharashtra,2019-07-31,Monthly,5.45,42123456,42.78,Urban
+Maharashtra,2019-08-31,Monthly,5.02,42456789,42.55,Urban
+Maharashtra,2019-09-30,Monthly,6.21,41789456,42.32,Urban
+Maharashtra,2019-10-31,Monthly,5.78,42012345,42.65,Urban
+Maharashtra,2019-11-30,Monthly,6.02,41890123,42.45,Urban
+Maharashtra,2019-12-31,Monthly,5.65,42098765,42.21,Urban
+Maharashtra,2020-01-31,Monthly,5.34,42234567,42.45,Urban
+Maharashtra,2020-02-29,Monthly,5.89,41987654,42.32,Urban
+Maharashtra,2020-03-31,Monthly,12.45,39456789,41.21,Urban
+Maharashtra,2020-04-30,Monthly,28.67,31234567,40.45,Urban
+Maharashtra,2020-05-31,Monthly,24.32,33456789,40.78,Urban
+Maharashtra,2020-06-30,Monthly,14.21,38234567,41.45,Urban
+Maharashtra,2020-07-31,Monthly,9.45,40123456,42.02,Urban
+Maharashtra,2020-08-31,Monthly,7.21,41234567,42.21,Urban
+Maharashtra,2020-09-30,Monthly,6.45,41789012,42.45,Urban
+Maharashtra,2020-10-31,Monthly,5.98,42098765,42.65,Urban
+Tamil Nadu,2019-05-31,Monthly,4.12,18234567,44.21,Urban
+Tamil Nadu,2019-06-30,Monthly,3.89,18345678,44.45,Urban
+Tamil Nadu,2019-07-31,Monthly,4.34,18123456,44.32,Urban
+Tamil Nadu,2019-08-31,Monthly,4.02,18278901,44.21,Urban
+Tamil Nadu,2019-09-30,Monthly,5.21,17890123,44.02,Urban
+Tamil Nadu,2019-10-31,Monthly,4.78,18034567,44.32,Urban
+Tamil Nadu,2019-11-30,Monthly,4.95,17956789,44.21,Urban
+Tamil Nadu,2019-12-31,Monthly,4.56,18102345,44.10,Urban
+Tamil Nadu,2020-01-31,Monthly,4.32,18189012,44.21,Urban
+Tamil Nadu,2020-02-29,Monthly,4.67,18067890,44.05,Urban
+Tamil Nadu,2020-03-31,Monthly,10.21,16789012,43.21,Urban
+Tamil Nadu,2020-04-30,Monthly,22.56,13456789,42.45,Urban
+Tamil Nadu,2020-05-31,Monthly,18.34,14567890,42.78,Urban
+Tamil Nadu,2020-06-30,Monthly,10.45,16890123,43.45,Urban
+Tamil Nadu,2020-07-31,Monthly,6.78,17567890,44.02,Urban
+Tamil Nadu,2020-08-31,Monthly,5.21,18012345,44.21,Urban
+Tamil Nadu,2020-09-30,Monthly,4.89,18098765,44.32,Urban
+Tamil Nadu,2020-10-31,Monthly,4.45,18189012,44.45,Urban
